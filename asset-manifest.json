@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Magnify/static/css/main.8e703f60.chunk.css",
+    "main.js": "/Magnify/static/js/main.cfeea51a.chunk.js",
+    "main.js.map": "/Magnify/static/js/main.cfeea51a.chunk.js.map",
+    "runtime-main.js": "/Magnify/static/js/runtime-main.ac758f8c.js",
+    "runtime-main.js.map": "/Magnify/static/js/runtime-main.ac758f8c.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Magnify/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.b4dc1014.chunk.js": "/Magnify/static/js/2.b4dc1014.chunk.js",
+    "static/js/2.b4dc1014.chunk.js.map": "/Magnify/static/js/2.b4dc1014.chunk.js.map",
+    "index.html": "/Magnify/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Magnify/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.8e703f60.chunk.css.map": "/Magnify/static/css/main.8e703f60.chunk.css.map",
+    "static/js/2.b4dc1014.chunk.js.LICENSE.txt": "/Magnify/static/js/2.b4dc1014.chunk.js.LICENSE.txt",
+    "static/media/background-video.a667619e.mp4": "/Magnify/static/media/background-video.a667619e.mp4",
+    "static/media/logo.a358c782.png": "/Magnify/static/media/logo.a358c782.png",
+    "static/media/megaphone-man.6dd803a9.jpg": "/Magnify/static/media/megaphone-man.6dd803a9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac758f8c.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.b4dc1014.chunk.js",
+    "static/css/main.8e703f60.chunk.css",
+    "static/js/main.cfeea51a.chunk.js"
+  ]
+}
